@@ -6,4 +6,4 @@ Here I wrote a K-Means algorithm in python which is comparable to sklearn.cluste
 
 The codes contains basic k-means inplementation as well as k-means ++ initial centroid identification.
 
-The main code is in [kmeans.py](). I also present a [notebook]() which contains the implementation of the algorithm as well as the output images of kmeans.
+The main code is in [code.py](). I also present a [notebook]() which contains the implementation of the algorithm as well as the output images of kmeans.
