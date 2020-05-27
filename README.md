@@ -1,4 +1,4 @@
-# KMeans
+# Image compression 
 
 Here I wrote a K-Means algorithm in python which is comparable to sklearn.cluster.KMeans package. In this sections, the kmeans are used for image compression (reducing the overall number of colors to a specific amount.)
 
